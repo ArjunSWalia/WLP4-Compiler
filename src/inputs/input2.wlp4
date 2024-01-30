@@ -1,0 +1,6 @@
+int wain (int a, int b)
+{
+  int c = 0;
+  int d = 241;
+  return a+b;
+}
