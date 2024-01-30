@@ -1,9 +1,0 @@
-int wain (int a, int b)
-{
-  int c = 0;
-  int d  = 241;
-  d = c+1;
-  c = 321;
-  a = b+1;
-  return a;
-}

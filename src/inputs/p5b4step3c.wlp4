@@ -1,7 +1,0 @@
-int wain (int a ,int b){
-    int c = 3;
-    c = ((a))+(b-c);
-    b = 3;
-    a = 4;
-    return c;
-}

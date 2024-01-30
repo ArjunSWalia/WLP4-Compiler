@@ -1,5 +1,0 @@
-int wain (int a ,int b){
-    int c = 3;
-    int*d = NULL;
-    return c; 
-}
